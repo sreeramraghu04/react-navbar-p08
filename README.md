@@ -24,4 +24,5 @@ A simple responsive navbar built with **React**, styled using **Tailwind CSS**, 
   ![alt text](sm_openednavbar.png)
 
 ## Demo Link
-[live Demo]()
+
+[live Demo](https://react-navbar-p08.netlify.app/)

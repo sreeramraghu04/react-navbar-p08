@@ -25,4 +25,4 @@ A simple responsive navbar built with **React**, styled using **Tailwind CSS**, 
 
 ## Demo Link
 
-[live Demo](https://react-navbar-p08.netlify.app/)
+[Live Demo](https://react-navbar-p08.netlify.app/)
